@@ -1,7 +1,5 @@
 ### Hello World ! 👋
 
-<!--
-**FrancisPj/FrancisPj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Qui suis-je ?
  - Je suis un sénoir dévelppeur web junior !
@@ -33,6 +31,8 @@
 ✔️ ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ✔️ ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 
+<!--
+**FrancisPj/FrancisPj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
