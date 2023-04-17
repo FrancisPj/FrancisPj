@@ -38,6 +38,8 @@
 ✔️ ![Git](https://img.shields.io/badge/-Git-3E2C00?style=flat-square&logo=git)
 ✔️ ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+---
+
 ### 💬 Social
 
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
