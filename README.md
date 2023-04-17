@@ -38,6 +38,13 @@
 ✔️ ![Git](https://img.shields.io/badge/-Git-3E2C00?style=flat-square&logo=git)
 ✔️ ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+### 💬 Social
+
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+
 <!--
 **FrancisPj/FrancisPj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
