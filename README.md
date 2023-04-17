@@ -2,7 +2,7 @@
 
 
 ### Qui suis-je ?
- - Je suis un sénoir dévelppeur web junior !
+ - Je suis un sénoir développeur web junior !
  
 ### Frontend 
 
