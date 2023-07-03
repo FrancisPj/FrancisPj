@@ -2,7 +2,7 @@
 
 
 ### Qui suis-je ?
- - Je suis un sénoir développeur web junior !
+ - Je suis un sénior développeur web junior !
  - Lien pour mon portfolio: https://portfolio-francispj.vercel.app/
  
 ### Frontend 
